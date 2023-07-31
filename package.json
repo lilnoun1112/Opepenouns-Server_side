@@ -1,0 +1,16 @@
+{
+  "name": "opepenouns",
+  "version": "1.0.0",
+  "description": "click counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "vercel-build": "echo hello"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^122.0.0"
+  }
+}
